@@ -1,0 +1,14 @@
+﻿{
+    "jobId": "5",
+    "status": "SUCCEED",
+    "steps": [
+        {
+            "name": "DEPLOY",
+            "status": "SUCCEED"
+        },
+        {
+            "name": "VERIFY",
+            "status": "SUCCEED"
+        }
+    ]
+}

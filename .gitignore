@@ -8,3 +8,4 @@ test-results/
 portfolio-deploy.zip
 
 *.tsbuildinfo
+.prerender/

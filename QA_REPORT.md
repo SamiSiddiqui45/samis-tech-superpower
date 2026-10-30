@@ -46,3 +46,7 @@ For live checks set PORTFOLIO_TEST_URL=https://main.d2p2c6exggp4f1.amplifyapp.co
 
 Automated browser engines are not physical iOS/Android devices. No manual screen-reader certification, load test, exhaustive penetration test or guarantee of future uptime is claimed. Automated accessibility checks cannot establish complete WCAG compliance. Unverified ETL source/demo links are deliberately omitted; its conceptual illustration is labeled. No email was invented. Keep Amplify active and billing in good standing during judging, and recheck the URL before submission. See CHALLENGE_SUBMISSION.md for the ready-to-edit write-up and attachment checklist.
 
+
+## Publication review and release 6
+Prerendered content into production HTML and switched the remaining motion preference hook to React/native CSS, reducing browser JS from about 366 kB to 245 kB uncompressed. Added canonical, Open Graph, robots.txt and sitemap.xml. Production build, lint and 13 unit tests passed; 30 local cross-browser checks passed. Amplify job 6 succeeded. One live desktop sample showed FCP/LCP 1.36 seconds and CLS 0. A simulated slow mobile sample (1.6 Mbps, 150ms latency, 4x CPU) showed FCP/LCP 8.4 seconds, CLS 0: slow-network performance is still a limitation, not a claim of perfect speed. These are single lab samples, not Lighthouse scores or field Core Web Vitals. Generated a 1200x675 cover screenshot and a terminal screenshot. PUBLISH_FIELDS.md maps the actual Builder Center form fields; personal learning and AWS Console screenshots still require the owner.
+

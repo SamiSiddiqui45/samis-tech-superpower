@@ -30,9 +30,9 @@ Official About page independently verified:
 https://builder.aws.com/build/hackathons/3bff5627-ef21-3bfc-acfc-fce21d39a4f6/aws-student-builder-challenge-build-your-tech-superpower
 
 PASS: public AWS Amplify site; About, skills and projects; working interactive terminal; visible hint; normal navigation; responsive layouts; real portfolio screenshots; AWS service documentation.
-PENDING: public source repository for THIS portfolio; AWS Console setup/deployment screenshots; personal learning reflection; completed Your project submission; participant eligibility/originality declaration.
+PENDING: AWS Console setup/deployment screenshots; personal learning reflection; completed Your project submission; participant eligibility/originality declaration. Public portfolio source is published at https://github.com/SamiSiddiqui45/samis-tech-superpower.
 
-Git remote inspection returned no remote. Do not substitute the GitHub profile URL for the portfolio source repository. No organizer submission was performed. Rules tab could not be retrieved; confirm age 18+, verified student status, country and employee exclusions, and one-entry rule yourself. Workspace was empty at implementation start, but personal prior-publication history cannot be independently certified.
+The public GitHub origin/main branch was verified after publishing. Do not substitute the GitHub profile URL for the portfolio source repository. No organizer submission was performed. Rules tab could not be retrieved; confirm age 18+, verified student status, country and employee exclusions, and one-entry rule yourself. Workspace was empty at implementation start, but personal prior-publication history cannot be independently certified.
 
 ## Artifacts and reproduction
 
@@ -45,3 +45,4 @@ For live checks set PORTFOLIO_TEST_URL=https://main.d2p2c6exggp4f1.amplifyapp.co
 ## Remaining practical limits
 
 Automated browser engines are not physical iOS/Android devices. No manual screen-reader certification, load test, exhaustive penetration test or guarantee of future uptime is claimed. Automated accessibility checks cannot establish complete WCAG compliance. Unverified ETL source/demo links are deliberately omitted; its conceptual illustration is labeled. No email was invented. Keep Amplify active and billing in good standing during judging, and recheck the URL before submission. See CHALLENGE_SUBMISSION.md for the ready-to-edit write-up and attachment checklist.
+

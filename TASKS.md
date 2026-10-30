@@ -27,7 +27,8 @@ Completed and tested locally. Not deployed. AWS identity check failed with Inval
 - [x] 13 unit tests and 30 live cross-browser checks pass
 - [x] Fix accessibility contrast/name findings and deploy release 5
 - [x] Replace outdated submission write-up with current facts and checklist
-- [ ] Publish this portfolio source to public GitHub repository
+- [x] Publish this portfolio source to public GitHub repository
 - [ ] Capture real AWS Console screenshots and manually verify LinkedIn
 - [ ] Review personal eligibility/learning and submit under Your project
+
 
